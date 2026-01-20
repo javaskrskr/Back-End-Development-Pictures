@@ -22,4 +22,5 @@ def picture():
         "event_city": "Fremont",
         "event_date": "11/2/2030"
     }
+    print(picture)
     return dict(picture)
